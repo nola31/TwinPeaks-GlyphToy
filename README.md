@@ -19,9 +19,9 @@ After going through the `Setup` stage in this document, the project can be run o
 
 ## Demo
 
-![Twin Peaks Glyph Demo](REPLACE_WITH_YOUR_GIF_URL)
+![Twin Peaks Glyph Demo](https://github.com/user-attachments/assets/adeffa87-f462-492d-9aa5-48801496e4c3)
 
-> **Note:** After uploading your demo GIF to GitHub, replace `REPLACE_WITH_YOUR_GIF_URL` with the actual link to your GIF.
+> **Note:** After uploading your demo GIF to GitHub, replace `https://github.com/user-attachments/assets/adeffa87-f462-492d-9aa5-48801496e4c3` with the actual link to your GIF.
 
 The project already contains the necessary libraries (GlyphMatrix SDK) and clean production-ready code structure. For SDK documentation, please reference the [**GlyphMatrix Development Kit**](https://github.com/KenFeng04/GlyphMatrix-Development-Kit).
 
