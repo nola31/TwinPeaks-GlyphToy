@@ -19,7 +19,7 @@ After going through the `Setup` stage in this document, the project can be run o
 
 ## Demo
 
-![Twin Peaks Glyph Demo](https://github.com/user-attachments/assets/fed92d26-50bc-4ee9-ab99-299427d3edc6)
+<video src="https://github.com/user-attachments/assets/fed92d26-50bc-4ee9-ab99-299427d3edc6" controls autoplay loop muted width="100%"></video>
 
 The project already contains the necessary libraries (GlyphMatrix SDK) and clean production-ready code structure. For SDK documentation, please reference the [**GlyphMatrix Development Kit**](https://github.com/KenFeng04/GlyphMatrix-Development-Kit).
 
