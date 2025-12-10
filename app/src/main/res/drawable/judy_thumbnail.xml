@@ -1,0 +1,266 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <!-- Черный круглый фон -->
+  <path
+      android:pathData="M256,256m-256,0a256,256 0,1 1,512 0a256,256 0,1 1,-512 0"
+      android:fillColor="#000000"/>
+  
+  <!-- Темно-серая пиксельная рамка (как у Nothing) -->
+  <path
+      android:pathData="M196.01,35.63h13.05v13.05h-13.05z"
+      android:fillColor="#1C1C1C"/>
+  <path
+      android:pathData="M213.84,35.63h13.05v13.05h-13.05z"
+      android:fillColor="#1C1C1C"/>
+  <path
+      android:pathData="M231.65,35.63h13.05v13.05h-13.05z"
+      android:fillColor="#1C1C1C"/>
+  <path
+      android:pathData="M249.48,35.63h13.05v13.05h-13.05z"
+      android:fillColor="#1C1C1C"/>
+  <path
+      android:pathData="M267.3,35.63h13.05v13.05h-13.05z"
+      android:fillColor="#1C1C1C"/>
+  <path
+      android:pathData="M285.11,35.63h13.05v13.05h-13.05z"
+      android:fillColor="#1C1C1C"/>
+  <path
+      android:pathData="M302.93,35.63h13.05v13.05h-13.05z"
+      android:fillColor="#1C1C1C"/>
+  
+  <!-- Owl Symbol (три ромба) - БЕЛЫЕ пиксели -->
+  <!-- Ряд 6: col 6, 12, 18 -->
+  <path
+      android:pathData="M213.84,213.84h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M285.11,213.84h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M356.39,213.84h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 7: col 5-7, 11-13, 17-19 -->
+  <path
+      android:pathData="M196.01,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M213.84,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M231.65,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M267.3,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M285.11,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M302.93,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M338.58,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M356.39,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M374.21,231.65h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 8: расширение ромбов -->
+  <path
+      android:pathData="M178.2,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M196.01,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M231.65,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M249.48,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M267.3,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M285.11,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M302.93,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M320.76,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M338.58,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M356.39,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M374.21,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M392.04,249.48h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 9: максимальное расширение -->
+  <path
+      android:pathData="M160.38,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M178.2,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M249.48,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M267.3,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M285.11,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M338.58,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M356.39,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M374.21,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M392.04,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M409.86,267.3h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 10: средние ромбы -->
+  <path
+      android:pathData="M142.55,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M160.38,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M249.48,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M267.3,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M356.39,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M374.21,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M409.86,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M427.67,285.11h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 11: соединение ромбов -->
+  <path
+      android:pathData="M231.65,302.93h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M249.48,302.93h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M374.21,302.93h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M392.04,302.93h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 12: узкая часть -->
+  <path
+      android:pathData="M213.84,320.76h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M231.65,320.76h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M392.04,320.76h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M409.86,320.76h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 13: обратное расширение -->
+  <path
+      android:pathData="M231.65,338.58h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M249.48,338.58h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M374.21,338.58h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M392.04,338.58h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <!-- Ряд 14-18: нижняя часть символа -->
+  <path
+      android:pathData="M249.48,356.39h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M267.3,356.39h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M356.39,356.39h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M374.21,356.39h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <path
+      android:pathData="M267.3,374.21h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M285.11,374.21h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M338.58,374.21h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M356.39,374.21h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <path
+      android:pathData="M285.11,392.04h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M302.93,392.04h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M320.76,392.04h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M338.58,392.04h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <path
+      android:pathData="M302.93,409.86h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M285.11,409.86h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M320.76,409.86h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+  
+  <path
+      android:pathData="M285.11,427.67h13.05v13.05h-13.05z"
+      android:fillColor="#ffffff"/>
+</vector>
